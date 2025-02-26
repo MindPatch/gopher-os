@@ -15,7 +15,7 @@
 [8]: https://codecov.io/gh/achilleasa/gopher-os
 [9]: https://goreportcard.com/badge/github.com/achilleasa/gopher-os
 [10]: https://goreportcard.com/report/github.com/achilleasa/gopher-os
-123
+123ff
 The goal of this project is to build a 64-bit POSIX-compliant tick-less kernel
 with a Linux-compatible syscall implementation using [Go](https://golang.org). 
 
