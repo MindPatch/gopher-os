@@ -9,7 +9,7 @@
 [2]: https://travis-matrix-badges.herokuapp.com/repos/achilleasa/gopher-os/branches/master/2
 [3]: https://travis-matrix-badges.herokuapp.com/repos/achilleasa/gopher-os/branches/master/3
 [4]: https://travis-matrix-badges.herokuapp.com/repos/achilleasa/gopher-os/branches/master/4
-[5]: https://travis-matrix-badges.herokuapp.com/repos/achilleasa/gopher-os/branches/master/5
+[5]: https://travis-matrix-badges.fherokuapp.com/repos/achilleasa/gopher-os/branches/master/5
 [6]: https://travis-ci.org/achilleasa/gopher-os
 [7]: https://codecov.io/gh/achilleasa/gopher-os/branch/master/graph/badge.svg
 [8]: https://codecov.io/gh/achilleasa/gopher-os
